@@ -8,4 +8,4 @@ Atividade WomakersCode de sistema de Mercado com banco de dados:
 
 ### Modelo Entidade-Relacionamento
 
-<img src="images/modelo-entidade-relacionamento.png" alt="Modelo entidade-relacionamento" />
+<img src="images/modelo_entidade_relacionamento.png" alt="Modelo entidade-relacionamento" />
